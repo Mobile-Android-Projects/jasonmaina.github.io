@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  margin: 50px;
+  background-color: rgb(177, 212, 205);
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+h1 {
+  font-size: 50px;
+  font-family: "Oxygen", sans-serif;
+  color: blueviolet;
+}
+p {
+  font-family: "Oxygen", sans-serif;
+}

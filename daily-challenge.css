@@ -1,0 +1,36 @@
+body {
+  background-color: bisque;
+  margin: 50px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: darkslateblue;
+  font-size: 20px;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(64, 56, 56);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#day-challenge {
+  color: blueviolet;
+  font-weight: bold;
+  font-size: 40px;
+}
